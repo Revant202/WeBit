@@ -7,15 +7,5 @@ Arduino-based wearable safety device with an emergency alert messaging and calli
 
 
 
-## Demo Video
 
-https://github.com/Revant202/WeBit/blob/main/Iot%20project%20Video.mp4
-
-
-## Screenshots
-
-![](https://github.com/Revant202/WeBit/blob/main/ss1.png)
-![](https://github.com/Revant202/WeBit/blob/main/ss2.png)
-![](https://github.com/Revant202/WeBit/blob/main/ss3.png)
-![](https://github.com/Revant202/WeBit/blob/main/ss4.png)
 
